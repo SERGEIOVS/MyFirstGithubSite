@@ -1,1 +1,10 @@
-body{color:green;}
+div{
+
+    background-color: green;
+    width: 50%;
+    text-align: center;
+    border:3px solid yellow;
+    border-radius: 5px;
+}
+
+p{color: brown;}
